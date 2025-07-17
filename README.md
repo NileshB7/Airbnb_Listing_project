@@ -2,10 +2,12 @@
 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) and Data Visualization on Airbnb listings in New York for 2024. The goal is to uncover price distribution, neighborhood trends, and availability patterns to help optimize rental pricing strategies.
 
+
 📂 Project Files
 practice.ipynb → Jupyter Notebook containing data cleaning, EDA, and visualizations.
 
 datasets.csv → Dataset of Airbnb listings used for the analysis.
+
 
 🛠️ Tools & Libraries
 Language: Python
@@ -13,6 +15,7 @@ Language: Python
 Libraries: Pandas, NumPy, Seaborn, Matplotlib
 
 Environment: Jupyter Notebook
+
 
 🔍 Key Steps
 Data Cleaning & Preprocessing
